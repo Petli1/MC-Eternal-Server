@@ -80,11 +80,11 @@ openblocks:flim_flam
 advancedrocketry:spacebreathing
 endercore:xpboost
 endercore:autosmelt
-enderio:witherarrow
 enderio:repellent
-enderio:witherweapon
-enderio:soulbound
 enderio:shimmer
+enderio:witherarrow
+enderio:soulbound
+enderio:witherweapon
 tombstone:shadow_step
 tombstone:soulbound
 tombstone:magic_siphon

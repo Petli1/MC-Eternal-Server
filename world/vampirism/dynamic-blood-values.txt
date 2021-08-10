@@ -1,11 +1,24 @@
 #Dynamically calculated blood values - DON'T EDIT
-doggytalents:dog=3
+minecraft:skeleton_horse=15
+iceandfire:myrmex_worker=15
+fossil:fossil.coelacanth=15
 mysticalworld:entity_fox=4
-futuremc:bee=3
+mod_lavacow:lilsludge=15
 fossil:fossil.sturgeon=15
 mod_lavacow:mimic=10
 mysticalworld:entity_silkworm=3
-mysticalworld:entity_deer=10
+quark:foxhound=3
 bewitchment:snake=3
+iceandfire:myrmex_soldier=15
+doggytalents:dog=3
+iceandfire:myrmex_royal=15
+fossil:fossil.nautilus=6
+mysticalworld:entity_lava_cat=4
+futuremc:bee=3
+quark:crab=4
+mod_lavacow:weta=3
+bewitchment:toad=3
+fossil:fossil.alligator_gar=15
+mysticalworld:entity_deer=10
 midnight:nightstag=15
 mysticalworld:entity_beetle=4
